@@ -2,7 +2,7 @@
   <img src="./src/assets/logo.svg">
 </h1>
 
-<p align="center">
+<p>
   <img src="./public/github/goFinances.png" width="490">
   <img src="./public/github/goFinancesImport.png" width="490">
 </p>
