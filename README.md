@@ -2,10 +2,10 @@
   <img src="./src/assets/logo.svg">
 </h1>
 
-<div>
-  <img src="./public/github/goFinances.png" width="270">
-  <img src="./public/github/goFinancesImport.png" width="270">
-</div>
+<p align="center">
+  <img src="./public/github/goFinances.png" width="490">
+  <img src="./public/github/goFinancesImport.png" width="490">
+</p>
 
 ---
 
